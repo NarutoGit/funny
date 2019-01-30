@@ -8,4 +8,4 @@
 相关工具：  
 **dumpmon**（https://twitter.com/dumpmon）
 **PasteHunter**（https://github.com/kevthehermit/PasteHunter）
-
+**YARA**(https://virustotal.github.io/yara/)
